@@ -1,3 +1,5 @@
-FactoryTalk Optix Application
-Basic settings of MQTT communication
+# FactoryTalk Optix Application
+
+## Basic settings of MQTT communication
+
 publisher part
